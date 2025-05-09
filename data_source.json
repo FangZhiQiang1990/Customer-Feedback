@@ -27,7 +27,7 @@
       "attachment": "Attachment Upload:",
       "attachment_description": "Please upload relevant files.",
       "when_label": "When",
-      "where_label": "Where",
+      "where_label": "Position",
       "what_label": "What",
       "action_label": "Action",
       "possible_cause_label": "Possible Cause"
@@ -42,7 +42,7 @@
       "attachment": "附件上传:",
       "attachment_description": "请上传相关文件。",
       "when_label": "时间",
-      "where_label": "地点",
+      "where_label": "位置",
       "what_label": "问题",
       "action_label": "措施",
       "possible_cause_label": "可能原因"
