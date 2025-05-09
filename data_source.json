@@ -1,0 +1,66 @@
+{
+  "engine_types": {
+    "en": [ "CFM56-5", "CFM56-7", "V2500", "LEAP-1A", "LEAP-1B", "PW1100" ],
+    "zh": [ "CFM56-5", "CFM56-7", "V2500", "LEAP-1A", "LEAP-1B", "PW1100" ]
+  },
+  "issue_types": {
+    "en": [ "Document Issue", "Packaging/Transport Issue", "Engine Issue", "Other Issue" ],
+    "zh": [ "文件问题", "包装运输问题", "发动机自身问题", "其他问题" ]
+  },
+  "requests": {
+    "en": [ "AOG", "Warranty Claim", "Technical Support", "Technical Sharing", "Quality Investigation" ],
+    "zh": [ "AOG", "保修索赔", "技术支持", "技术分享", "质量调查" ]
+  },
+  "email": {
+    "to": "Ting.Ke@mtuzhuhai.com;Jianhong.Li@mtuzhuhai.com;Caiyuan.Yang@mtuzhuhai.com",
+    "cc": "Zhaoliu.Yang@mtuzhuhai.com"
+  },
+
+  "ui_texts": {
+    "en": {
+      "title": "MTU Customer Feedback System",
+      "shutdown_button": "Shutdown System",
+      "new_button": "New",
+      "Issue_label": "Issue Detail",
+      "installation_date": "Installation Date:",
+      "release_date": "Release Date:",
+      "attachment": "Attachment Upload:",
+      "attachment_description": "Please upload relevant files."
+    },
+    "zh": {
+      "title": "MTU 客户反馈系统",
+      "shutdown_button": "关闭系统",
+      "new_button": "新增",
+      "Issue_label": "问题详情",
+      "installation_date": "装机时间:",
+      "release_date": "放行时间:",
+      "attachment": "附件上传:",
+      "attachment_description": "请上传相关文件。"
+    }
+  },
+  "placeholders": {
+    "en": {
+      "contact": "Position/Name/Contact Information",
+      "request": "Please enter or select a request",
+      "select_engine_type": "Please select an engine type",
+      "action": "Describe actions taken after discovery (e.g., BSI)",
+      "possible_cause": "List suspected root causes (e.g., bearing fatigue, foreign object damage)",
+      "when": "Enter the engine phase (e.g., Test Run, After Build)",
+      "where": "Specify the defective part/location (e.g., fuel pump)",
+      "what": "Describe the issue (e.g., oil leak, blade cracks, excessive vibration)"
+    },
+    "zh": {
+      "contact": "职位/姓名/联系方式",
+      "request": "请输入或选择诉求",
+      "select_engine_type": "请选择发动机类型",
+      "action": "描述发现问题后的措施（例如：BSI）",
+      "possible_cause": "列出可能的根本原因（例如：轴承疲劳、异物损伤）",
+      "when": "输入发动机阶段（例如：试车、装配后）",
+      "where": "指定缺陷部件/位置（例如：燃油泵）",
+      "what": "描述问题（例如：漏油、叶片裂纹、过度振动）"
+    }
+  }
+}
+
+
+  
